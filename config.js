@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['255698101622', 'VENOCYBER', true],
-  ['255742862266', 'venocyber admin', true], 
+  ['918617845264', '🦄드림 가이𝐒𝐑𝐄𝐄𝐉𝐈𝐓', true],
+  ['917047045164', ' Admin', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['255698101622','255753427860'] 
-global.prems = ['255698101622', '255742862266', '255753427860']
-global.allowed = ['255698101622', '255742862266', '2557537860']
+global.mods = ['918617845264','918617845264'] 
+global.prems = ['918617845264', '918617845264', '917047045164']
+global.allowed = ['918617845264', '918617845264', '917047045164']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,16 +50,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'VENOCYBER MDv2'
+global.botname = 'VENOCYBER🍷'
 global.premium = 'true'
-global.packname = 'VENOCYBER MDV2' 
-global.author = 'Venocyber admin' 
+global.packname = 'Nikal Lawde' 
+global.author = 'Mahatma Rup😆' 
 global.menuvid = 'https://i.imgur.com/lPtxyPi.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Venocyber\n' 
-global.dygp = 'https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN'
-global.fgsc = 'https://github.com/kingjux/Venocyber-mdV2' 
-global.fgyt = 'https://youtube.com/@JASTINMTEWA-vn9pl'
-global.fgpyp = 'https://youtube.com/@JASTINMTEWA-vn9pl'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/s_r_e_e_j_i_t_ig\n' 
+global.dygp = '❣️'
+global.fgsc = 'https://github.com/NikalLawde' 
+global.fgyt = '✨'
+global.fgpyp = '✨'
 global.fglog = 'https://telegra.ph/file/9573213e9c5d2fb54069f.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
